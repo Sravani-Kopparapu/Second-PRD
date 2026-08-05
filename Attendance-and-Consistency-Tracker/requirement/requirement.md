@@ -20,6 +20,14 @@ String data type variables for eligibility status and consistency status.
 
 Outputs expected:
 
+Total working days 
+Present days 
+Absent days
+Attendance Percentage 
+Required Attendance 
+Eligibility Status 
+Consistency Status
+
 Arithmetic operators planned:
 
 Assignment operators planned
