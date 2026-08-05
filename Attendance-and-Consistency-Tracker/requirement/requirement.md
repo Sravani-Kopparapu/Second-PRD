@@ -55,10 +55,12 @@ I used ternary operator to calcualte eligibility status and consistency status.
 Conditions required:
 attendancePercentage >= requiredAttendance for eligibility and consistency.
 
-Loop selected
+Loop selected:
+No loop is used here, because without using loop, the solution is effective.
 
-Reason for selecting the loop
+Reason for selecting the loop:
+---------
 
-Validation rules
+Validation rules:
 
 Test value sets planned
