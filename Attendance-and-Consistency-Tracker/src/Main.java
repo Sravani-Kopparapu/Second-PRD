@@ -2,16 +2,16 @@
 public class Main {
 
     public static void main(String[] args) {
-        int day1 = 1;
+        int day1 = 0;
         int day2 = 0;
-        int day3 = 1;
+        int day3 = 0;
         int day4 = 1;
-        int day5 = 1;
+        int day5 = 0;
         int day6 = 1;
         int day7 = 0;
         int day8 = 1;
-        int day9 = 1;
-        int day10 = 1;
+        int day9 = 0;
+        int day10 = 0;
         int totalWorkingDays = 10;
         int presentDays = day1 + day2 + day3 + day4 + day5 + day6 + day7 + day8 + day9 + day10;
         int absentDays = totalWorkingDays - presentDays;
