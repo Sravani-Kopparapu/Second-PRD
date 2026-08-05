@@ -4,17 +4,67 @@ public class Main {
     public static void main(String[] args) {
         int day1 = 0;
         int day2 = 0;
-        int day3 = 0;
+        int day3 = 5;
         int day4 = 1;
         int day5 = 0;
         int day6 = 1;
         int day7 = 0;
         int day8 = 1;
         int day9 = 0;
-        int day10 = 0;
+        int day10 = 2;
         int totalWorkingDays = 10;
-        int presentDays = day1 + day2 + day3 + day4 + day5 + day6 + day7 + day8 + day9 + day10;
-        int absentDays = totalWorkingDays - presentDays;
+        int presentDays = 0;
+        int absentDays = 0;
+        if (day1 == 1) {
+            presentDays++;
+        } else if (day1 == 0) {
+            absentDays++;
+        }
+        if (day2 == 1) {
+            presentDays++;
+        } else if (day2 == 0) {
+            absentDays++;
+        }
+        if (day3 == 1) {
+            presentDays++;
+        } else if (day3 == 0) {
+            absentDays++;
+        }
+        if (day4 == 1) {
+            presentDays++;
+        } else if (day4 == 0) {
+            absentDays++;
+        }
+        if (day5 == 1) {
+            presentDays++;
+        } else if (day5 == 0) {
+            absentDays++;
+        }
+        if (day6 == 1) {
+            presentDays++;
+        } else if (day6 == 0) {
+            absentDays++;
+        }
+        if (day7 == 1) {
+            presentDays++;
+        } else if (day7 == 0) {
+            absentDays++;
+        }
+        if (day8 == 1) {
+            presentDays++;
+        } else if (day8 == 0) {
+            absentDays++;
+        }
+        if (day9 == 1) {
+            presentDays++;
+        } else if (day9 == 0) {
+            absentDays++;
+        }
+        if (day10 == 1) {
+            presentDays++;
+        } else if (day10 == 0) {
+            absentDays++;
+        }
         double attendancePercentage = (double) presentDays / totalWorkingDays * 100;
         double requiredAttendance = 75.0;
 
