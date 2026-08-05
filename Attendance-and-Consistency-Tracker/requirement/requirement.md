@@ -13,6 +13,10 @@ I have selected hard coded values for ten days by giving random 0's and 1's per 
 For example if the value is 1 then the candidate is present and if the value is 0 then the candidate is absent.
 
 Variables and data types planned:
+I used 10 integer data type variables to store day1 to day10 attendance.
+Integer data type variables for total working days and present days and absent days.
+Double data type for attendance percentage and required attendance percentage.
+String data type variables for eligibility status and consistency status.
 
 Outputs expected:
 
