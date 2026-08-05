@@ -9,6 +9,8 @@ Understanding of the requirement:
 The requirement is to track attendance for ten days and display whether the candidate is eligible based on attendance and consistency while caculating attendance percentage and also comparing with the required attendance percentage.
 
 Hard-coded values selected:
+I have selected hard coded values for ten days by giving random 0's and 1's per each day.
+For example if the value is 1 then the candidate is present and if the value is 0 then the candidate is absent.
 
 Variables and data types planned:
 
