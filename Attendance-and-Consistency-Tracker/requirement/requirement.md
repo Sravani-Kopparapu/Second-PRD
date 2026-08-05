@@ -62,5 +62,11 @@ Reason for selecting the loop:
 ---------
 
 Validation rules:
+If the input values are 0 or 1 then only it is valid input otherwise it is invalid input.
 
 Test value sets planned
+Test Value Set 1: 
+
+Test Value Set 2:
+
+Test Value Set 3:
