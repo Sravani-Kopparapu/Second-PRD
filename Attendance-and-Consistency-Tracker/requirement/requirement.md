@@ -6,6 +6,7 @@ Assigned Requirement Number: 6
 Project Title: Attendance and Consistency Tracker
 
 Understanding of the requirement:
+The requirement is to track attendance for ten days and display whether the candidate is eligible based on attendance and consistency while caculating attendance percentage and also comparing with the required attendance percentage.
 
 Hard-coded values selected:
 
