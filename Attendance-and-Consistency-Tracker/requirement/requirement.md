@@ -65,7 +65,7 @@ Validation rules:
 If the input values are 0 or 1 then only it is valid input otherwise it is invalid input.
 
 Test value sets planned
-Test Value Set 1: 1 0 1 1 0 1 0 1 1 1
+Test Value Set 1: 1 0 1 1 1 1 0 1 1 1
 
 Test Value Set 2: 0 0 0 1 0 1 0 1 0 0 
 
