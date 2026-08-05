@@ -30,17 +30,30 @@ Consistency Status
 
 Arithmetic operators planned:
 
-Assignment operators planned
+I used + operator for present days.
+I used - operator for absent days.
+I used *, / , % operator for attendance percentage calculation.
 
-Relational operators planned
+Assignment operators planned:
 
-Logical operators planned
+I used = operator for assigning values to variables.
 
-Unary operators planned
+Relational operators planned:
 
-Ternary operator usage
+I used >= operator for checking eligibility status.
+I used >= operator for checking consistency status.
 
-Conditions required
+Logical operators planned:
+Logical Operators are not used.
+
+Unary operators planned:
+Unary Operators are not used
+
+Ternary operator usage:
+I used ternary operator to calcualte eligibility status and consistency status.
+
+Conditions required:
+attendancePercentage >= requiredAttendance for eligibility and consistency.
 
 Loop selected
 
